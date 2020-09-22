@@ -16,4 +16,4 @@ Age-Adjusted Rate — The age-adjusted rates are rates that would have existed i
 The chart below shows the trend of the suicide rate in California from 2000 to 2017. The suicide rate increased dramatically from 2005 to 2017.
 During these years, people were suffered from the financial crisis, the income of the middle class in the United States has risen instead of falling. The gap between the rich and the poor in society has been widening. Many people’s bad economic conditions have gradually led to psychological changes, and they might lose confidence in life.
 ![images/Trend_in_California.png](images/Trend_in_California.png)
-
+Based on the line chart below, we can see that race of white adults are at the highest risk for past-year suicide-related thoughts, followed by American Indian/Alaska Native and Native Hawaiian, and other Pacific Islanders. Asian and Hispanic adults are less likely to commit suicide.
