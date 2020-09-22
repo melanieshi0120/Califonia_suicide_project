@@ -23,3 +23,5 @@ This map shows the distribution of suicide rate — the redder the city is the h
 ![images/map.png](images/map.png)
 The bar chart shows the mean of suicide rate from 2000 to 2017. Suicide rate in Trinity is 41.56 which 3.74 higher than Glenn. Lnyo, the 3rd place, has the 32.29 suicide rate.
 ![geography.png](geography.png)
+#
+$“Men seek help for mental health less often. It’s not that men don’t have the same issues as women — but they’re a little less likely to know they have whatever stresses or mental health conditions that are putting them at greater risk for suicide.” — Harkavy-Friedman$
