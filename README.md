@@ -18,7 +18,7 @@ During these years, people were suffered from the financial crisis, the income o
 ![images/Trend_in_California.png](images/Trend_in_California.png)
 
 - Based on the line chart below, we can see that race of white adults are at the highest risk for past-year suicide-related thoughts, followed by American Indian/Alaska Native and Native Hawaiian, and other Pacific Islanders. Asian and Hispanic adults are less likely to commit suicide.
-![images/Suicide Rate by Race.png](images/Suicide Rate by Race.png)
+![images/Suicide_Rate_by_Race.png](images/Suicide_Rate_by_Race.png)
 
 - This map shows the distribution of suicide rate — the redder the city is the higher the suicide rate it is. So we can see that most cities and counties at the top of the map have higher suicide rates. The county with the highest suicide rate is Trinity. Suicide rates are higher in rural parts of California, and Trinity County has experienced a rate of more than 30 suicides per 100,000 residents from 1999 and 2016. This record is almost triple the statewide rate. The reason might be scarce mental health care.
 ![images/map.png](images/map.png)
@@ -28,8 +28,8 @@ During these years, people were suffered from the financial crisis, the income o
 #
 “Men seek help for mental health less often. It’s not that men don’t have the same issues as women — but they’re a little less likely to know they have whatever stresses or mental health conditions that are putting them at greater risk for suicide.” — Harkavy-Friedman
 #
-In 2014, the age-adjusted suicide rate for men was 20.7/100,000, which was more than three times that of women (5.8/100,000) in the United States[1]. Based on the 2000–2017 data of California, the average suicide rate of men is 3.4 times that of women.
-![images/Suicide Rate by Gender.png](images/Suicide Rate by Gender.png)
+In 2014, the age-adjusted suicide rate for men was 20.7/100,000, which was more than three times that of women (5.8/100,000) in the United States. Based on the 2000–2017 data of California, the average suicide rate of men is 3.4 times that of women
+![images/Gender.png](images/Gender.png.png)
 Suicide rate of male is much higher than that of women. Most men stay ‘strong’ and quite, even though they are suffering and struggling and feel vulnerable. Women are more likely to share their stories and feelings so that their can release their pressure. This way is more helpful to avoid bad tings happen — suicide.
 # Conclusion
 There are many reason why people commit suicide — education, job, income, economy, body conditions (chronic illness), temperature, social economy etc. Some relevant organizations or centers should put forward to efficient and strong prevention policies, programs, or methods to reducing suicide and the in rural areas where individual risk is highest.
