@@ -17,3 +17,9 @@ The chart below shows the trend of the suicide rate in California from 2000 to 2
 During these years, people were suffered from the financial crisis, the income of the middle class in the United States has risen instead of falling. The gap between the rich and the poor in society has been widening. Many people’s bad economic conditions have gradually led to psychological changes, and they might lose confidence in life.
 ![images/Trend_in_California.png](images/Trend_in_California.png)
 Based on the line chart below, we can see that race of white adults are at the highest risk for past-year suicide-related thoughts, followed by American Indian/Alaska Native and Native Hawaiian, and other Pacific Islanders. Asian and Hispanic adults are less likely to commit suicide.
+
+![images/Suicide Rate by Race.png](images/Suicide Rate by Race.png)
+This map shows the distribution of suicide rate — the redder the city is the higher the suicide rate it is. So we can see that most cities and counties at the top of the map have higher suicide rates. The county with the highest suicide rate is Trinity. Suicide rates are higher in rural parts of California, and Trinity County has experienced a rate of more than 30 suicides per 100,000 residents from 1999 and 2016. This record is almost triple the statewide rate. The reason might be scarce mental health care.
+![images/map.png](images/map.png)
+The bar chart shows the mean of suicide rate from 2000 to 2017. Suicide rate in Trinity is 41.56 which 3.74 higher than Glenn. Lnyo, the 3rd place, has the 32.29 suicide rate.
+![geography.png](geography.png)
