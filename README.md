@@ -29,8 +29,9 @@ $“Men seek help for mental health less often. It’s not that men don’t have
 In 2014, the age-adjusted suicide rate for men was 20.7/100,000, which was more than three times that of women (5.8/100,000) in the United States[1]. Based on the 2000–2017 data of California, the average suicide rate of men is 3.4 times that of women.
 ![images/Suicide Rate by Gender.png](images/Suicide Rate by Gender.png)
 Suicide rate of male is much higher than that of women. Most men stay ‘strong’ and quite, even though they are suffering and struggling and feel vulnerable. Women are more likely to share their stories and feelings so that their can release their pressure. This way is more helpful to avoid bad tings happen — suicide.
-Conclusion
+# Conclusion
 There are many reason why people commit suicide — education, job, income, economy, body conditions (chronic illness), temperature, social economy etc. Some relevant organizations or centers should put forward to efficient and strong prevention policies, programs, or methods to reducing suicide and the in rural areas where individual risk is highest.
+#
 National Suicide Prevention Lifeline
 Hours: Available 24 hours. Languages: English, Spanish.
 Learn more
