@@ -25,3 +25,7 @@ The bar chart shows the mean of suicide rate from 2000 to 2017. Suicide rate in 
 ![geography.png](geography.png)
 #
 $“Men seek help for mental health less often. It’s not that men don’t have the same issues as women — but they’re a little less likely to know they have whatever stresses or mental health conditions that are putting them at greater risk for suicide.” — Harkavy-Friedman$
+#
+In 2014, the age-adjusted suicide rate for men was 20.7/100,000, which was more than three times that of women (5.8/100,000) in the United States[1]. Based on the 2000–2017 data of California, the average suicide rate of men is 3.4 times that of women.
+![images/Suicide Rate by Gender.png](images/Suicide Rate by Gender.png)
+Suicide rate of male is much higher than that of women. Most men stay ‘strong’ and quite, even though they are suffering and struggling and feel vulnerable. Women are more likely to share their stories and feelings so that their can release their pressure. This way is more helpful to avoid bad tings happen — suicide.
